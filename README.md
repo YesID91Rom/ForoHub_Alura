@@ -1,3 +1,5 @@
+[![Badge-Spring.png](https://i.postimg.cc/k5qNgz1r/Badge-Spring.png)](https://postimg.cc/bZVS6CfL)
+
 <h1 align="center"> Challenge - Foro-HUb </h1>
 
 Es un proyecto de una API REST con enfoque a tópicos, donde los usuarios pueden participar mediante la creación, la actualización y la desactivación de dudas o preguntas respectos a los temas o cursos que estén viendo.
@@ -5,7 +7,7 @@ Es un proyecto de una API REST con enfoque a tópicos, donde los usuarios pueden
 
 
 
--`1. Listar Tópicos:`Se obtendrá una lista de todos los tópicos que los usuarios han creado.
+- `1. Listar Tópicos:`Se obtendrá una lista de todos los tópicos que los usuarios han creado.
 
 - `2. Crear Tópico:` Los usuarios que estén autenticados podrán crear nuevos tópicos dentro de la aplicación.
 
