@@ -4,6 +4,7 @@ Es un proyecto de una API REST con enfoque a tópicos, donde los usuarios pueden
 <h3>Características:</h3>
 
 
+
 -`1. Listar Tópicos:`Se obtendrá una lista de todos los tópicos que los usuarios han creado.
 
 - `2. Crear Tópico:` Los usuarios que estén autenticados podrán crear nuevos tópicos dentro de la aplicación.
